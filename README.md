@@ -1,6 +1,6 @@
 # Image_Processing
 
-In this work, we investigated several contrast enhancement methodologies, including Histogram Equalization (HE), Adaptive Histogram Equalization (AHE), Contrast Limited 
+In this work, I investigated several contrast enhancement methodologies, including Histogram Equalization (HE), Adaptive Histogram Equalization (AHE), Contrast Limited 
 Adaptive Histogram Equalization (CLAHE), and Local Region Stretch (LRS). 
 
 Histogram Equalization (HE) is a simple and effective method that redistributes the pixel intensities in an image, enhancing the overall contrast. 
